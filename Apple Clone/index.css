@@ -1,0 +1,175 @@
+#na{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+}
+#na1{
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(225, 227, 227);
+    text-align: end;
+    padding: 10px 30px 0 0;
+    
+}
+#na2{
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(225, 227, 227);
+    padding: 10px 0px 0 60px;
+}
+
+#menu{
+    height: 6vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    /* justify-content: space-around; */
+    column-gap: 40px;
+    text-align: center;
+    padding: 7px 0 0 170px;
+}
+#buy{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(243, 243, 243);
+    padding: 0 0 0 420px;
+    /* display: block;
+    justify-content: center; */
+}
+#buy2{
+    padding: 0 0 0 310px;
+}
+#air{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(243, 243, 243);
+    margin: 20px 0 0 0;
+}
+#air1{
+    display: inline-block;
+    padding: 30px 0 0 40%;
+}
+#air2{
+    padding: 30px 0 0 16%;
+}
+
+#iph{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin: 20px 0 0 0;
+}
+#iph1{
+    padding: 30px 0 0 0%;
+    color: white;
+    text-align: center;
+}
+#iph2{
+    padding: 60px 0 0 29%;
+}
+#pro{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+}
+#pro1{
+    height: 80vh;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 30px;
+    color: white;
+    margin: 10px;
+}
+#pro2{
+    height: 80vh;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    /* padding: 30px; */
+    color: white;
+    margin: 10px 10px 10px 0;
+}
+
+#card{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    
+}
+#card1{
+    height: 80vh;
+    width: 50%;
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    margin: 20px 10px 20px 10px
+}
+#card2{
+    height: 80vh;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    /* padding: 30px; */
+    color: rgb(0, 0, 0);
+    margin: 20px 10px 10px 0px
+}
+#caro{
+    height: 70vh;
+}
+#par{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(244, 244, 244);
+    font-size: 11px;
+    padding: 100px 200px 20px 320px;
+   
+
+}
+#foot{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    background-color: rgb(243, 243, 243);
+    column-gap: 30px;
+    font-size: 12px;
+    padding: 30px 0 20px 0;
+}
+#foot1{
+    height: 85vh;
+    width:20%;
+}
+#foot2{
+    height: 85vh;
+    width: 15%;
+}#foot3{
+    height: 85vh;
+    width: 15%;
+}#foot4{
+    height: 85vh;
+    width: 15%;
+}#foot5{
+    height: 85vh;
+    width: 15%;
+}#foot6{
+    height: 85vh;
+    width: 20%;
+}
+#copy{
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    background-color: rgb(243, 243, 243);
+    margin: 10px 0 0 0;
+}
+#copy1{
+    width: 40%;
+    padding: 0 0 0 30px;
+}
+#copy2{
+    width: 50%;
+}
+#copy13{
+    width: 10%;
+}
